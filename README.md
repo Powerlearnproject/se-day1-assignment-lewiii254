@@ -24,21 +24,21 @@
    6.MAINTENANCE: Involves providing ongoing support, updates and enhancements to the software after it is deployed
 
 ## 4.)Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-    WATERFALL METHODILOGIGY: is sequential where each phase must be completed before moving on to the next. Phases typically include requirement gathering, design, development, testing, 
+  * WATERFALL METHODILOGIGY: is sequential where each phase must be completed before moving on to the next. Phases typically include requirement gathering, design, development, testing, 
     deployment, and maintenance. appropriate in Large projects with clear and fixed requirements eg. a government project or financial system where requirements are stable and changes 
     are unlikely or in Projects with stringent regulatory requirements. while 
-    AGILE METHODOLOGY :Agile is an iterative and incremental approach where the project is broken down into small, manageable iterations. Each iteration includes planning, development, 
+  * AGILE METHODOLOGY :Agile is an iterative and incremental approach where the project is broken down into small, manageable iterations. Each iteration includes planning, development, 
     testing, and review. hence focused on flexibility, collaboration and responding to change. best appropriate in Projects with evolving or unclear requirements: For example, a startup 
     building a new product where user feedback will heavily influence the features or Projects focused on user-centered design 
 
 ## 5.)Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-    software developer: responsible for writing codes and implementing softwares
-    Quality assurance engineer: Supposed to ensure software quality by designing and executing test plans.
-    Project manager: Oversees the planning execution and delivery of software projects
+  * software developer: responsible for writing codes and implementing softwares
+  * Quality assurance engineer: Supposed to ensure software quality by designing and executing test plans.
+  * Project manager: Oversees the planning execution and delivery of software projects
 
 ## 6.)Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-     IDEs: they provide comprehensive tools for writing, debugging, and testing code hence improving productivity they include: IntelliJ IDEA, visual studio code ,sublime text 
-     VCS: essential for managing code changes, especially in collaborative environments where multiple developers work on the same codebase they incude: GIT, Mercurial, Subversion
+  - IDEs: they provide comprehensive tools for writing, debugging, and testing code hence improving productivity they include: IntelliJ IDEA, visual studio code ,sublime text 
+  - VCS: essential for managing code changes, especially in collaborative environments where multiple developers work on the same codebase they incude: GIT, Mercurial, Subversion
 
 ## 7.)What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
    challenges include 1.)Tight Deadlines: leading to rushed development and compromised quality
@@ -47,23 +47,23 @@
     strategies: Effective communication, Agile methodologies, prioritization of tasks.
 
 ## 8.)Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-    * unit testing: involves testing individual components of a software
-    * Integration Testing: involves testing interactions between different components
-    * system testing: testing the software system as a whole
-    * Acceptance testing: testing the software system against user requirements to ensure it meets the user needs
-    * importance: ensures that the software products meets specified quality standards and functional requirements
+  * unit testing: involves testing individual components of a software
+  * Integration Testing: involves testing interactions between different components
+  * system testing: testing the software system as a whole
+  * Acceptance testing: testing the software system against user requirements to ensure it meets the user needs
+  * importance: ensures that the software products meets specified quality standards and functional requirements
                  ensures high quality software products
            
 # Part 2: Introduction to AI and Prompt Engineering
 
 
 ## 9.)Define prompt engineering and discuss its importance in interacting with AI models.
-     Prompt engineering is the process of crafting and refining input prompts to effectively guide AI models, like ChatGPT, toward producing accurate, relevant, and high-quality responses
+   Prompt engineering is the process of crafting and refining input prompts to effectively guide AI models, like ChatGPT, toward producing accurate, relevant, and high-quality responses
      its importance is that it helps  Improving Output Quality as Well-designed prompts can elicit more precise and useful responses. 
      also helps in Tailoring Responses for Specific Needs and also reducing errors
 
 ## 10.)Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-     Vague Prompt: “Tell me about machine learning.”
-     Improved Prompt: “Provide a beginner-friendly explanation of machine learning, focusing on the difference between supervised and unsupervised learning, giving examples.”
-     The improved prompt guides the AI to provide an answer that is informative yet accessible, with a clear focus on essential concepts within machine learning. 
+   *  Vague Prompt: “Tell me about machine learning.”
+   * Improved Prompt: “Provide a beginner-friendly explanation of machine learning, focusing on the difference between supervised and unsupervised learning, giving examples.”
+   *  The improved prompt guides the AI to provide an answer that is informative yet accessible, with a clear focus on essential concepts within machine learning. 
 
