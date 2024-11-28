@@ -41,17 +41,17 @@
      VCS: essential for managing code changes, especially in collaborative environments where multiple developers work on the same codebase they incude: GIT, Mercurial, Subversion
 
 ## 7.)What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-   challenges include 1)Tight Deadlines: leading to rushed development and compromised quality
-                      2)Changing requirements which can lead to scope creep or project delays
-                      3)Technical dept
+   challenges include 1.)Tight Deadlines: leading to rushed development and compromised quality
+                      2.)Changing requirements which can lead to scope creep or project delays
+                      3.)Technical dept
     strategies: Effective communication, Agile methodologies, prioritization of tasks.
 
 ## 8.)Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-    unit testing: involves testing individual components of a software
-    Integration Testing: involves testing interactions between different components
-    system testing: testing the software system as a whole
-    Acceptance testing: testing the software system against user requirements to ensure it meets the user needs
-    importance: ensures that the software products meets specified quality standards and functional requirements
+    * unit testing: involves testing individual components of a software
+    * Integration Testing: involves testing interactions between different components
+    * system testing: testing the software system as a whole
+    * Acceptance testing: testing the software system against user requirements to ensure it meets the user needs
+    * importance: ensures that the software products meets specified quality standards and functional requirements
                  ensures high quality software products
            
 # Part 2: Introduction to AI and Prompt Engineering
